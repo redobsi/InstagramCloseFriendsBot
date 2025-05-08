@@ -1,10 +1,15 @@
-This is a small project I made to automate the process of making your followers close friends.
+# Instagram Close Friends Bot
 
-On the new update I added : 
-- An instagram followers scrapper 
-- The ability to connect using 2AF
-- Multithreading to be able to use multiple accounts at once
-- The ability to add up to 500 people per second (in contrast with this version that adds only up to 1 per second)
-- & More..
+This project automates the process of adding your followers to your Instagram Close Friends list.
 
-Please contact me on Telegram if you need it! @YMoulki
+## What's New
+
+The latest update includes:
+
+- An Instagram followers scraper.
+- Support for Two-Factor Authentication (2FA).
+- Multithreading, allowing you to use multiple accounts simultaneously.
+- Improved performance, enabling up to 500 people to be added per second (compared to the previous limit of 1 per second).
+- And more enhancements.
+
+Feel free to reach out on Telegram if you're interested: @YMoulki
